@@ -1554,7 +1554,7 @@
         "STR_PART_CLUSTER":"クラスターサイズ",
         "STR_PART_CLUSTER_DEFAULT":"システムのデフォルト値",
         "STR_DONATE":"寄付",
-        "STR_4KN_UNSUPPORTED":"Currently Ventoy does not support 4K native device.",
+        "STR_4KN_UNSUPPORTED":"現在の Ventoy は、ネイティブ大容量セクター(4Kn)デバイスをサポートしていません",
         
         "STRXXX":""
     },
@@ -1814,7 +1814,7 @@
         "STR_PART_CLUSTER":"簇的大小",
         "STR_PART_CLUSTER_DEFAULT":"系統默認值",
         "STR_DONATE":"捐助",
-        "STR_4KN_UNSUPPORTED":"Currently Ventoy does not support 4K native device.",
+        "STR_4KN_UNSUPPORTED":"目前 Ventoy 不支援原生大型磁區(4Kn)設備",
         
         "STRXXX":""
     },
